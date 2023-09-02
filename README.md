@@ -2,7 +2,6 @@
 
 Welcome to the MERN Workout App repository! This application provides a platform for users to log in, save their workout data, and manage their workouts. It is built using the MERN stack, consisting of MongoDB, Express.js, React, and Node.js.
 
-![App Screenshot](path-to-your-screenshot.png)
 
 ## Table of Contents
 
