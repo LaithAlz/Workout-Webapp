@@ -11,10 +11,6 @@ Welcome to the MERN Workout App repository! This application provides a platform
 - [Usage](#usage)
 - [Authentication](#authentication)
 - [API Endpoints](#api-endpoints)
-- [Server Configuration](#server-configuration)
-- [Frontend Components and Contexts](#frontend-components-and-contexts)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
